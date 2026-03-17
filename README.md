@@ -15,7 +15,7 @@ This is my Vite + React starter project.
 
 Here’s a screenshot of the **my-react-starter** project folder structure:
 
-![my-react-starter Folder](screenshots/project-folder.png)
+![my-react-starter Folder](screenshots/my-screenshot.png)
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
